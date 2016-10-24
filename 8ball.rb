@@ -38,6 +38,7 @@ greetings = [
 
 puts greetings.sample
 puts
+
 #выводим случайный элемент массива
 sleep (3)
 puts answers.sample
